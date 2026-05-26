@@ -1,12 +1,12 @@
 # Hi, I'm Diego Serrano 👋
 
-💻 Computer Engineering student at Universidad Nacional Autónoma de México (UNAM) focused on Backend Development and Software Engineering.
+ Computer Engineering student at Universidad Nacional Autónoma de México (UNAM) focused on Backend Development and Software Engineering.
 
 I enjoy building backend systems, REST APIs, management platforms, and full-stack applications using modern development tools and database technologies. Currently interested in backend engineering, fintech systems, enterprise software, and scalable applications.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,9 +29,9 @@ I enjoy building backend systems, REST APIs, management platforms, and full-stac
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-## 🚖 FleetOps – Bicitaxi Management System
+##  FleetOps – Bicitaxi Management System
 Full-stack operational management platform designed for bicitaxi fleet administration.
 
 ### Features
@@ -48,7 +48,7 @@ Full-stack operational management platform designed for bicitaxi fleet administr
 
 ---
 
-## 🍽️ Employee Payroll & Restaurant Operations Management System
+##  Employee Payroll & Restaurant Operations Management System
 Backend-oriented management system focused on employee administration and operational workflows.
 
 ### Features
@@ -64,7 +64,7 @@ Backend-oriented management system focused on employee administration and operat
 
 ---
 
-## ⚽ Android Football App
+##  Android Football App
 Android application developed using Kotlin and JSON integration.
 
 ### Features
@@ -78,7 +78,7 @@ Android application developed using Kotlin and JSON integration.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Backend architecture and scalable systems
 - Java backend development
@@ -88,7 +88,7 @@ Android application developed using Kotlin and JSON integration.
 
 ---
 
-# 🎯 Career Interests
+#  Career Interests
 
 - Backend Engineering
 - Software Engineering
@@ -98,17 +98,17 @@ Android application developed using Kotlin and JSON integration.
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=devserrano&show_icons=true&theme=tokyonight)
 
 ---
 
-# 📫 Contact
+#  Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/serranodev
-- 📧 Email: diegoserr091111@gmail.com
+-  LinkedIn: https://linkedin.com/in/serranodev
+-  Email: diegoserr091111@gmail.com
 
 ---
 
-⭐ Always learning, building, and improving as a software engineer.
+ Always learning, building, and improving as a software engineer.
