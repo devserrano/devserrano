@@ -98,12 +98,6 @@ Android application developed using Kotlin and JSON integration.
 
 ---
 
-#  GitHub Stats
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=devserrano&show_icons=true&theme=tokyonight)
-
----
-
 #  Contact
 
 -  LinkedIn: https://linkedin.com/in/serranodev
